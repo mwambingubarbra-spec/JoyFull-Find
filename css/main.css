@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    font-size: 50px;
+    text-shadow: 5px 5px 5px grey;
+}
+
+button{
+    background-color: brown;
+    color: aliceblue;
+    width: 180px;
+    padding: 20px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: crimson;
+}
+
+img{
+    width: 350px;
+    height: 300px;
+}
